@@ -10,7 +10,7 @@ If you find it useful, please cite our paper. Thank you!
 @inproceedings{dong2023bind,
   title={Interpreting Unfairness in Graph Neural Networks via Training Node Attribution},
   author={Dong, Yushun and Wang, Song and Ma, Jing and Liu, Ninghao and Li, Jundong},
-  booktitle={Proceedings of AAAI 2022},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2023}
 }
 ```
