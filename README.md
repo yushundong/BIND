@@ -37,7 +37,7 @@ Notice: Cuda is enabled for default training settings.
 
 ## 2. Introduction
 
-This open-source code mainly includes five python files, namely 1_training.py, 2_influence_computation_and_save.py, 3_removing_and_testing.py, debiasing_gnns.py, and plots_effectiveness.py. We provide a basic introduction below to help gain an understanding of how they work.
+The open-source implementation mainly includes five python files, namely 1_training.py, 2_influence_computation_and_save.py, 3_removing_and_testing.py, debiasing_gnns.py, and plots_effectiveness.py. We provide a basic introduction below to help gain an understanding of how they work.
 
 #### (1) 1_training.py
 
