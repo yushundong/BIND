@@ -128,7 +128,7 @@ Pre-processing completed.
 Average time per training node: 0.3576169583797455 s
 ```
 
-### 3.3 Collect Actual PDD values
+### 3.3 Collect Actual PDD Values
 
 To collect the estimated & actual PDD values, first run:
 
